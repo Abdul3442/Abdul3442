@@ -13,10 +13,14 @@
 ---
 
 ### 🔬 About Me
-I am a Biotechnology undergraduate passionate about applying computational methods to solve biological challenges. My research focus centers on:
-- **Bacterial Genomics & Pangenomics:** Comparative genomics, resistome (AMR) and virulome profiling of clinical pathogens.
-- **Transcriptomics & RNA-Seq:** Quality control, read mapping, quantification, and differential gene expression (DGE) analysis using negative binomial models (DESeq2).
-- **Computational Drug Discovery:** Structural biology, molecular modeling, and target identification.
+
+Bioinformatics and Computational Biology researcher focused on genomic data analysis and computational approaches to biological research.
+
+- **Genomics & Pangenomics:** Comparative genomics, antimicrobial resistance (AMR), and pathogen genome analysis.
+- **Transcriptomics & RNA-Seq:** Transcriptome analysis, functional annotation, and gene expression profiling.
+- **Computational Biology:** Multi-omics analysis, biological data science, and computational drug discovery.
+
+Focused on developing reproducible bioinformatics workflows and advancing data-driven research in genomics, molecular biology, and human health.
 
 ---
 
