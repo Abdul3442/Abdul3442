@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdul Rehman 👋</h1>
 <p align="center">
-  <b>Biotechnology Undergraduate | Specializing in Bioinformatics & Molecular Modeling</b><br>
-  <i>Focused on Computational Drug Discovery, Bacterial Transcriptomics, and Structural Biology Research</i>
+  <b>Bioinformatics & Computational Biology | Genomics, Transcriptomics & Biological Data Science</b><br>
+  <i>Developing computational approaches for genomic analysis and data-driven biological research.</i>
 </p>
 
 <p align="center">
